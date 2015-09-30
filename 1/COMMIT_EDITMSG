@@ -1,0 +1,26 @@
+"for it3100"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Robert Jensen <rjensen@molybdenum.cs.dixie.edu>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   ReadMe.txt
+#	new file:   code/area.php
+#	new file:   code/currency.php
+#	new file:   code/length.php
+#	new file:   code/temp.php
+#	new file:   code/volume.php
+#	new file:   code/weight.php
+#	new file:   image/area.jpg
+#	new file:   image/currency.JPG
+#	new file:   image/length.JPG
+#	new file:   image/temp.JPG
+#	new file:   image/volume.JPG
+#	new file:   image/weight.JPG
+#	new file:   index.html
+#
